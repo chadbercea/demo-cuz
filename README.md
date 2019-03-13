@@ -1,3 +1,2 @@
 # demo-cuz
-
-Fuck it up
+Don't cuss too much.
